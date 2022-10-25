@@ -1,7 +1,7 @@
 #!/bin/bash
 
-    #Author : Utrains
-    #Date : 01-Nov-2021
+    #Author : Ani
+    #Date : Oct 2022
 
 ## ---------- script that Install some packages in Linux -----------------
 
