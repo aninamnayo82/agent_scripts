@@ -1,0 +1,16 @@
+#!/bin/bash
+
+Author : Ani
+Date: Oct 2022
+Description: This script installs some useful packages.
+
+yum install wget -y
+yum install net-tools -y
+yum install  sysstat   -y
+yum install finger -y
+yum install gcc -y
+yum install make -y
+yum install python3 -y
+yum install epel-release
+yum install git -y 
+fi
